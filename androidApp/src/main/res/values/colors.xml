@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="banners">#752969</color>
+    <color name="buttons">#052145</color>
+    <color name="text">#052145</color>
+    <color name="button_text">#FFFFFF</color>
+</resources>

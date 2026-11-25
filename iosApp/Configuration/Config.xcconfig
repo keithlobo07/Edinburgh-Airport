@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=EdinburghAirport
+PRODUCT_BUNDLE_IDENTIFIER=io.github.keithlobo07.edinburghairport.EdinburghAirport$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
